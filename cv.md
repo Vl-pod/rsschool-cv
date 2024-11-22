@@ -15,3 +15,10 @@
 
 ## About Me
 I am 30 years old. I am goal-oriented and persistent. I am executive and responsible. I am a developing and positive person.
+
+## Education
+* Agriculture university (engenering)
+* Courses
+  * Self education (front-end developer)
+  * RS-school (JavaScript/Front-end developer)
+  * CS 50 lections
