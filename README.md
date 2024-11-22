@@ -1,1 +1,1 @@
-https://Vl-pod.github.io/rsschool-cv/cv
+https://Vl-pod.github.io/rsschool-cv/
